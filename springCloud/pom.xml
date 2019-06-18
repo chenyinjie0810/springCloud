@@ -11,20 +11,17 @@
 
     <modules>
         <module>provider-user</module>
-      <module>consumer-order</module>
+        <module>consumer-order</module>
         <module>cloud-api</module>
         <module>eureka</module>
     </modules>
 
     <name>springCloud</name>
-  <!-- FIXME change it to the project's website -->
-<!--  <url>http://www.example.com</url>-->
 
   <!--将项目声明为springboot项目-->
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-<!--    <version>1.5.10.RELEASE</version>-->
       <version>2.1.5.RELEASE</version>
   </parent>
 

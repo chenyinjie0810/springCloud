@@ -4,3 +4,14 @@ server:
 spring:
   application:
     name: provider-user
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+#      defaultZone: http://user:123@localhost:8761/eureka/
+      defaultZone: http://@localhost:8761/eureka/
+    healthcheck:
+      enabled: true
