@@ -11,8 +11,8 @@ eureka:
   client:
     service-url:
       #      defaultZone: http://user:123@localhost:8761/eureka/
-      defaultZone: http://@localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
     healthcheck:
       enabled: true
 
-applicationName: http://PROVIDER-USER/
+applicationName: http://provider-user/

@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/DeptService.java" description="findByLastNameLike" line="14" />
+    <bookmark url="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/dtjh/com/zfsoft/ckjh/controller/QhjhCallingController.java" line="128" />
+    <bookmark url="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java" line="1043" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f7060bc-42d5-4aa7-9a96-e760825b46e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springCloud/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springCloud/eureka/eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/weixinMeals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/entity/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/enums/ProductEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/repository/DeptRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201907051554_chenyj.sql" afterDir="false" />
+      <change afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/LockTest.java" afterDir="false" />
+      <change afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/touch/啊啊.html" afterDir="false" />
+      <change afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zfsoft_gov_server_operational_platform_standard_v2.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/cloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/cloud-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/cloud-api/target/classes/com/chenyj/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/cloud-api/target/classes/com/chenyj/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/cloud-api/target/classes/com/chenyj/pojo/Dept.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/cloud-api/target/classes/com/chenyj/pojo/Dept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/consumer-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/consumer-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/ConsumerOrderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/ConsumerOrderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/config/Myconfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/config/Myconfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/consumer-order/target/classes/com/chenyj/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/src/main/java/com/chenyj/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/src/main/java/com/chenyj/controller/DeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/src/main/java/com/chenyj/pojo/Dept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/src/test/java/com/chenyj/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/com/chenyj/ProviderUserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/com/chenyj/ProviderUserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/com/chenyj/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud/provider-user/target/classes/com/chenyj/controller/DeptController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/provider-user/target/test-classes/com/chenyj/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/src/test/java/com/chenyj/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/target/classes/com/chenyj/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springCloud/target/test-classes/com/chenyj/AppTest.class" beforeDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/Authorization/zfSoftAuthorization.txt" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/Authorization/zfSoftAuthorization.txt" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCaseYuShen/initBlCaseYuShen.jsp" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCaseYuShen/initBlCaseYuShen.jsp" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/zfsoftRegister.txt" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/zfsoftRegister.txt" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/dtjh/com/zfsoft/ckjh/controller/QhjhCallingController.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/dtjh/com/zfsoft/ckjh/controller/QhjhCallingController.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/datasource.properties" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/datasource.properties" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/register.properties" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/register.properties" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/BaseDao.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/BaseDao.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/oauth/web/controller/AccessTokenController.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/oauth/web/controller/AccessTokenController.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/util/AlipayUtil.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/util/AlipayUtil.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/controller/SxDirectoryController.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/controller/SxDirectoryController.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxService.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxService.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlCounterSignController.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlCounterSignController.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCaseWstz.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCaseWstz.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlParallelService.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlParallelService.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlServiceStage.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlServiceStage.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlServiceWorkFlowServiceImpl.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlServiceWorkFlowServiceImpl.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwcase/pojo/QlCase.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwcase/pojo/QlCase.java" afterDir="false" />
+      <change beforePath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwworkflow/pojo/SxServiceWorkflow.java" beforeDir="false" afterPath="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwworkflow/pojo/SxServiceWorkflow.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/product/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/datasource.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="1038" column="13" selection-start-line="1038" selection-start-column="13" selection-end-line="1038" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/touch/啊啊.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="213" column="34" selection-start-line="213" selection-start-column="34" selection-end-line="213" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCaseWstz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="223" column="30" lean-forward="true" selection-start-line="223" selection-start-column="30" selection-end-line="223" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/省对接字段回填.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201907051554_chenyj.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FALLBACK_NUMBERS</find>
+      <find>T_BL_SERVICE_WORKFLOW</find>
+      <find>SPSXLX</find>
+      <find>SERVICE_STAGE_OID</find>
+      <find>date</find>
+      <find>坐标</find>
+      <find>T_BL_PROJECT</find>
+      <find>办结时间</find>
+      <find>用地面积</find>
+      <find>用地</find>
+      <find>STAGE_SORT</find>
+      <find>T_WORKFLOW_BUSS_FLOW</find>
+      <find>T_WORKFLOW_BUSS_FLOW_STEP</find>
+      <find>T_SX_SERVICE_WORKFLOW</find>
+      <find>T_BL_SERVICE_STAGE</find>
+      <find>SPLCBBH</find>
+      <find>版本号</find>
+      <find>Integer</find>
+      <find>T_WORKFLOW_HANDLE_LINK_PERSON</find>
+      <find>T_WORKFLOW_BUSS_INFO</find>
+      <find>状态</find>
+      <find>CLASS_TYPE_NAME</find>
+      <find>STAGE_TYPE</find>
+      <find>t_bl_case</find>
+      <find>FORM_TEXT</find>
+      <find>cooki</find>
+      <find>HANDLE_FLOW_INSTRUCTION</find>
+      <find>土地获取方式</find>
+      <find>T_BL_CASE_WSTZ</find>
+      <find>TDHQFS</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0\zwfw\com\zfsoft\freemarker</dir>
+      <dir>F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0\src\com\zfsoft\workflow\pojo</dir>
+      <dir>F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/Res/impl/DeptRepository.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/Res/DeptRepository.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/Repository/DeptRepository.java" />
+        <option value="$PROJECT_DIR$/product/src/test/java/com/weixinmeals/product/ProductApplicationTests.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/repository/DeptRepository.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/entity/Dept.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/enums/ProductEnum.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/impl/DeptServiceImpl.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/register.properties" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blServiceApprove/initRegisterBlCaseStage.jsp" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCounterSign/initBlCounterSign.jsp" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCaseYuShen/initBlCaseYuShen.jsp" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxServiceMaterial.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlServiceWorkFlowServiceImpl.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlCounterSignController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCounterSign/viewBlCounterSign.jsp" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/20190627.sql" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/sys/pojo/SysDict.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceWorkflowController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/controller/WorkflowFlowInfoController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowBussInfo.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxService.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlParallelService.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCaseWstz.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlServiceStage.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/lhys/vo/BlCaseVo.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/vo/Test.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/vo/Test1.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwworkflow/pojo/SxServiceWorkflow.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/tjfx/controller/CaseSituationController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowLink.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/oauth/web/controller/AccessTokenController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/BaseDao.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/Lock.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/LockTest.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowBussFlowStep.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCase.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwcase/pojo/QlCase.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201906230903zhongxx.sql" />
+        <option value="$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/交换备份/Config_402881be5caeb43c015caebaa5ef000a.xml" />
+        <option value="$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/file/Config_402881be5caeb43c015caebaa5ef000a.xml" />
+        <option value="$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/Config_402881be5caeb43c015caebaa5ef000a.xml" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/dtjh/com/zfsoft/ckjh/controller/QhjhCallingController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201907051554_chenyj.sql" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/controller/SxDirectoryController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/datasource.properties" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java" />
+        <option value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/touch/啊啊.html" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.1\respository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weixinMeals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zfsoft_gov_server_operational_platform_standard_v2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinMeals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zfsoft_gov_server_operational_platform_standard_v2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="DOC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinMeals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zfsoft_gov_server_operational_platform_standard_v2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="touch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="last_opened_file_path" value="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/touch" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0\touch" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.pt">
+    <configuration name="QhjhCallingController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfsoft.ckjh.controller.QhjhCallingController" />
+      <module name="zfsoft_gov_server_operational_platform_standard_v2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfsoft.ckjh.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfsoft.workflow.pojo.vo.Test1" />
+      <module name="zfsoft_gov_server_operational_platform_standard_v2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfsoft.workflow.pojo.vo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pt" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.27" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-server -XX:PermSize=128M -XX:MaxPermSize=256m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_weixinMeals" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60370" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QhjhCallingController" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0" />
+          <option name="myCopyRoot" value="F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0" />
+          <option name="myCopyRoot" value="F:\shangqiuworkspance\zfsoft_gov_server_operational_platform_standard_v2.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7060bc-42d5-4aa7-9a96-e760825b46e7" name="Default Changelist" comment="" />
+      <created>1561037715279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561037715279</updated>
+      <workItem from="1561037718687" duration="5485000" />
+      <workItem from="1561043421013" duration="730000" />
+      <workItem from="1561128638934" duration="1060000" />
+      <workItem from="1561197131832" duration="874000" />
+      <workItem from="1561262866105" duration="18000" />
+      <workItem from="1561262922621" duration="2276000" />
+      <workItem from="1561269096323" duration="922000" />
+      <workItem from="1561271119314" duration="11105000" />
+      <workItem from="1561338223209" duration="18149000" />
+      <workItem from="1561381408503" duration="31181000" />
+      <workItem from="1561510769207" duration="33450000" />
+      <workItem from="1561592429880" duration="21680000" />
+      <workItem from="1561683540945" duration="22147000" />
+      <workItem from="1561798508645" duration="265000" />
+      <workItem from="1561857625216" duration="13190000" />
+      <workItem from="1561942188934" duration="21400000" />
+      <workItem from="1562029491218" duration="6398000" />
+      <workItem from="1562037089269" duration="19654000" />
+      <workItem from="1562115706234" duration="15618000" />
+      <workItem from="1562201590521" duration="17588000" />
+      <workItem from="1562289119011" duration="786000" />
+      <workItem from="1562290024047" duration="2490000" />
+      <workItem from="1562294072202" duration="11527000" />
+      <workItem from="1562311327457" duration="13011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 17m 25s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 19m 07s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 31m 17s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 33m 40s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 34m 40s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 36m 58s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 44m 16s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductApplicationTests_contextLoads - 2019.06.20 at 22h 44m 54s.xml">
+      <configuration name="ProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271004000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17972103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.48700565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52881354" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.39096045" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299435" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.4858757" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881355" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3299435" />
+      <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.49785408" visible="true" weight="0.36949152" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3299356" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Redis Servers" order="8" weight="0.3299356" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17972103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.48700565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52881354" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.39096045" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299435" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.4858757" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881355" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3299435" />
+      <window_info active="true" anchor="bottom" id="Debug" order="15" sideWeight="0.49785408" visible="true" weight="0.31073445" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3299356" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Redis Servers" order="8" weight="0.3299356" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/product/src/main/java/com/weixinmeals/product/service/impl/DeptServiceImpl.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java</url>
+          <line>1045</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java</url>
+          <line>1787</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java</url>
+          <line>362</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java</url>
+          <line>299</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java</url>
+          <line>1743</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlServiceWorkFlowServiceImpl.java</url>
+          <line>299</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java</url>
+          <line>1236</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/controller/WorkflowFlowInfoController.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/controller/WorkflowFlowInfoController.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/service/impl/WorkflowBussInfoServiceImpl.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/service/impl/WorkflowBussInfoServiceImpl.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlServiceWorkFlowServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7155">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/views/zwfw/blCaseWorkflow/blCounterSign/initBeginBlCounterSign.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="146" column="157" lean-forward="true" selection-start-line="146" selection-start-column="157" selection-end-line="146" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/base/LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwcase/pojo/QlCaseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/报建审批/平台网站数据交换/wz_pt/file/Config_402881be5caeb43c015caebaa5ef000a.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1555">
+          <caret line="336" column="26" lean-forward="true" selection-start-line="336" selection-start-column="26" selection-end-line="336" selection-end-column="26" />
+          <folding>
+            <element signature="e#1006#5664#0" />
+            <element signature="e#5673#14222#0" />
+            <element signature="e#14231#19845#0" />
+            <element signature="e#19854#25726#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxServiceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlServiceWorkFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3501">
+          <caret line="532" column="21" selection-start-line="532" selection-start-column="21" selection-end-line="532" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="394" column="29" lean-forward="true" selection-start-line="394" selection-start-column="29" selection-end-line="394" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/service/impl/WorkflowBussInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwworkflow/pojo/SxServiceWorkflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3528">
+          <caret line="158" column="17" lean-forward="true" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowBussFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="e#3748#3749#0" expanded="true" />
+            <element signature="e#3804#3805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowBussFlowStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowBussInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/controller/WorkflowFlowInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/service/impl/BlCaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32454">
+          <caret line="1245" column="21" selection-start-line="1245" selection-start-column="21" selection-end-line="1245" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/zwfwcase/pojo/QlCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2538">
+          <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlServiceStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlParallelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/workflow/pojo/WorkflowHandleLinkPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="122" column="15" lean-forward="true" selection-start-line="122" selection-start-column="15" selection-end-line="122" selection-end-column="15" />
+          <folding>
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201906230903zhongxx.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="44" selection-start-line="2" selection-end-line="2" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/20190627.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/file/Config_402881be5caeb43c015caebaa5ef000a.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="260" column="25" lean-forward="true" selection-start-line="260" selection-start-column="25" selection-end-line="260" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/交换备份/Config_402881be5caeb43c015caebaa5ef000a.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161710">
+          <folding>
+            <element signature="e#480837#485848#0" />
+            <element signature="e#485852#490497#0" />
+            <element signature="e#490501#502350#0" />
+            <element signature="e#502354#509195#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/报建审批/平台网站数据交换/pt_wz/Config_402881be5caeb43c015caebaa5ef000a.xml" />
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/StepFormRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1227">
+          <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/WebContent/WEB-INF/lib/ooxml-schemas-1.1.jar!/org/openxmlformats/schemas/drawingml/x2006/main/impl/CTSRgbColorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <folding>
+            <element signature="e#0#110164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="108" column="26" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="26" />
+          <folding>
+            <element signature="e#8227#8228#0" expanded="true" />
+            <element signature="e#8267#8268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+          <folding>
+            <element signature="e#5553#5554#0" expanded="true" />
+            <element signature="e#5577#5578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="149" column="12" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8829">
+          <caret line="356" column="20" selection-start-line="356" selection-start-column="20" selection-end-line="356" selection-end-column="20" />
+          <folding>
+            <element signature="e#12774#12775#0" expanded="true" />
+            <element signature="e#12829#12830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="546" column="11" selection-start-line="546" selection-start-column="11" selection-end-line="546" selection-end-column="11" />
+          <folding>
+            <element signature="e#14796#14797#0" expanded="true" />
+            <element signature="e#14860#14861#0" expanded="true" />
+            <element signature="e#15480#15481#0" expanded="true" />
+            <element signature="e#15546#15547#0" expanded="true" />
+            <element signature="e#18901#18902#0" expanded="true" />
+            <element signature="e#18944#18945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/Cookie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/dtjh/com/zfsoft/ckjh/controller/QhjhCallingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="120" column="24" lean-forward="true" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/src/com/zfsoft/servlet/ValidateCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxServiceExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="125" column="7" selection-start-line="125" selection-start-column="7" selection-end-line="125" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.7.0_80/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="819" column="6" lean-forward="true" selection-start-line="819" selection-start-column="6" selection-end-line="819" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="557" column="27" lean-forward="true" selection-start-line="557" selection-start-column="27" selection-end-line="557" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/controller/SxDirectoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="105" column="31" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/affair/pojo/SxDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201906.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/resources/datasource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/controller/BlServiceApproveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1038" column="13" selection-start-line="1038" selection-start-column="13" selection-end-line="1038" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/touch/啊啊.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="213" column="34" selection-start-line="213" selection-start-column="34" selection-end-line="213" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/zwfw/com/zfsoft/blcaseworkflow/pojo/BlCaseWstz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="223" column="30" lean-forward="true" selection-start-line="223" selection-start-column="30" selection-end-line="223" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/省对接字段回填.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/shangqiuworkspance/zfsoft_gov_server_operational_platform_standard_v2.0/DOC/sql/201907051554_chenyj.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zfsoft_gov_server_operational_platform_standard_v2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

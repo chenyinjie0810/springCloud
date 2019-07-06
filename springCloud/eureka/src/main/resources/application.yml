@@ -1,5 +1,5 @@
-server:
-  port: 8761
+#server:
+#  port: 8761
 
 eureka:
   instance:
@@ -8,7 +8,7 @@ eureka:
     register-with-eureka: false #不把自己注册到eureka上
     fetch-registry: false #不从eureka上获取注册信息
     service-url:
-      defaultZone: http://user:123@localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/
 
 
 #spring:
@@ -16,4 +16,3 @@ eureka:
 #    user:
 #      name: user
 #      password: 123
-#    enabled: false #开启关闭security安全配置

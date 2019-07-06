@@ -1,6 +1,25 @@
 server:
-  port: 8001
+  port: 8002
 
 spring:
   application:
     name: provider-user
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: provider-user8002
+  client:
+    service-url:
+       defaultZone: http://localhost:8761/eureka/
+    healthcheck:
+      enabled: true
+
+
+
+info:
+  app.name: provider-user-springcloud
+  company.name: chenyj
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

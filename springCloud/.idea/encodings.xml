@@ -4,7 +4,9 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-user_8002" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
