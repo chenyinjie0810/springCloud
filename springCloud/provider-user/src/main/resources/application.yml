@@ -12,7 +12,7 @@ eureka:
     instance-id: provider-user8002
   client:
     service-url:
-       defaultZone: http://localhost:8761/eureka/
+       defaultZone: http://eureka8761.com:8761/eureka/,http://eureka8762.com:8762/eureka/
     healthcheck:
       enabled: true
 
