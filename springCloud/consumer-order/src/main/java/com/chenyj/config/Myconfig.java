@@ -1,5 +1,6 @@
 package com.chenyj.config;
 
+import com.chenyinjie.RandomRule_ZY;
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;
 import com.netflix.loadbalancer.RetryRule;
@@ -35,10 +36,10 @@ public class Myconfig {
      * @date: 2019/7/10
      * @return
      */
-   /* @Bean
+    @Bean
     public IRule myIRule(){
 //        return new RetryRule();
         return new RandomRule();
-    }*/
+    }
 
 }
