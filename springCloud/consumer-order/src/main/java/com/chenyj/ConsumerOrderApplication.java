@@ -1,5 +1,6 @@
 package com.chenyj;
 
+import com.chenyinjie.MyRule;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
@@ -9,7 +10,7 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
  *
  */
 @SpringBootApplication
-//@RibbonClient(name = "PROVIDER-USER")
+@RibbonClient(name = "PROVIDER-USER",configuration= MyRule.class)
 public class ConsumerOrderApplication
 {
     public static void main( String[] args )
