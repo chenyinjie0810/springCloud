@@ -24,14 +24,16 @@ public class Dept implements Serializable {
     private String lastName;
     private String db_source;
 
-    /*public Dept() {
-    }
-
     public Dept(Long id, String lastName, String db_source) {
         this.id = id;
         this.lastName = lastName;
         this.db_source = db_source;
     }
+
+    /*public Dept() {
+    }
+
+
 
     public Long getId() {
         return id;
@@ -57,4 +59,12 @@ public class Dept implements Serializable {
         this.db_source = db_source;
     }*/
 
+    @Override
+    public String toString() {
+        return "Dept{" +
+                "id=" + id +
+                ", lastName='" + lastName + '\'' +
+                ", db_source='" + db_source + '\'' +
+                '}';
+    }
 }

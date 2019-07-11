@@ -28,7 +28,7 @@ public class DeptController {
     @GetMapping("/dept/getDept/{id}")
     public String getDept(@PathVariable("id") Long id){
         System.out.println("当前端口：8001");
-        Dept dept=new Dept(id, "陈银杰", "cloud8001");
+        Dept dept=new Dept(id,"陈银杰","cloud8001");
         return dept.toString();
     }
 

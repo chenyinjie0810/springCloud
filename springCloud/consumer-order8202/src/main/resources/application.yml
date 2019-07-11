@@ -1,0 +1,16 @@
+server:
+  port: 8202
+
+spring:
+  application:
+    name: consumer-order8202
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: consumer-order8202
+  client:
+    service-url:
+      defaultZone: http://eureka8761.com:8761/eureka/,http://eureka8762.com:8762/eureka/
+    healthcheck:
+      enabled: true
