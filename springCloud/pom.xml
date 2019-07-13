@@ -20,6 +20,7 @@
         <module>consumer-order8202</module>
         <module>provider-user-hystrix8004</module>
         <module>consumer-order-hystrix-dashboard9001</module>
+        <module>zuul-gateway9527</module>
     </modules>
 
     <name>springCloud</name>

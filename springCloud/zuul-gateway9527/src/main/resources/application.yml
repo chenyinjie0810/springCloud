@@ -1,0 +1,39 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: zuul-gateway
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: zuul-gateway
+  client:
+    service-url:
+       defaultZone: http://eureka8761.com:8761/eureka/,http://eureka8762.com:8762/eureka/
+    healthcheck:
+      enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+info:
+  app.name: provider-user-springcloud
+  company.name: chenyj
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+#路由规则配置
+zuul:
+  prefix: /chenyj
+#  ignored-services: provider-user
+  ignored-services: "*"
+  routes:
+    mydept.serviceId: provider-user
+    mydept.path: /mydept/**
+
+
