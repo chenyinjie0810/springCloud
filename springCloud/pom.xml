@@ -21,6 +21,7 @@
         <module>provider-user-hystrix8004</module>
         <module>consumer-order-hystrix-dashboard9001</module>
         <module>zuul-gateway9527</module>
+        <module>config4433</module>
     </modules>
 
     <name>springCloud</name>

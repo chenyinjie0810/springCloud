@@ -1,0 +1,13 @@
+server:
+  port: 4433
+
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          #http://localhost:4433/application-dev.yml 访问地址
+          uri: https://github.com/chenyinjie0810/chenyj-config.git #GitHub上面的git仓库名字
+#         uri: git@github.com:chenyinjie0810/chenyj-config.git
