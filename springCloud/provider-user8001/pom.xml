@@ -9,7 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.chenyj</groupId>
     <artifactId>provider-user8001</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
