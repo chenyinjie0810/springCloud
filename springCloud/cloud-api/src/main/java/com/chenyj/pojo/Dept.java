@@ -3,6 +3,7 @@ package com.chenyj.pojo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.ToString;
 import lombok.experimental.Accessors;
 
 import java.io.Serializable;
@@ -18,17 +19,18 @@ import java.io.Serializable;
 @NoArgsConstructor
 @AllArgsConstructor
 @Accessors(chain=true)
+@ToString
 public class Dept implements Serializable {
 
     private Long id;
     private String lastName;
     private String db_source;
 
-    public Dept(Long id, String lastName, String db_source) {
+   /* public Dept(Long id, String lastName, String db_source) {
         this.id = id;
         this.lastName = lastName;
         this.db_source = db_source;
-    }
+    }*/
 
     /*public Dept() {
     }
@@ -59,12 +61,12 @@ public class Dept implements Serializable {
         this.db_source = db_source;
     }*/
 
-    @Override
+    /*@Override
     public String toString() {
         return "Dept{" +
                 "id=" + id +
                 ", lastName='" + lastName + '\'' +
                 ", db_source='" + db_source + '\'' +
                 '}';
-    }
+    }*/
 }
