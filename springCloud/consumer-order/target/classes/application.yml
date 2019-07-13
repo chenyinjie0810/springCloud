@@ -8,10 +8,10 @@ spring:
 eureka:
   instance:
     prefer-ip-address: true
+    instance-id: consumer-order8201
   client:
     service-url:
-      #      defaultZone: http://user:123@localhost:8761/eureka/
-      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
+      defaultZone: http://eureka8761.com:8761/eureka/,http://eureka8762.com:8762/eureka/
     healthcheck:
       enabled: true
 
